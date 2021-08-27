@@ -1,6 +1,8 @@
 # Solar-Collector
 Files included :
+
 (Solidworks Parts)
+
 - Absorber 
 - Air 
 - Case 
@@ -10,5 +12,7 @@ Files included :
 - Riser 
 - Glass
 - Lids 
+
 (Solidworks Assembly)
+
 - Final Assembly 
